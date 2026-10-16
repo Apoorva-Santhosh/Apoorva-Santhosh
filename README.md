@@ -11,7 +11,7 @@
 **`Cyber Security × Full-Stack`**
 
 *B.E. Computer Science @ Dayananda Sagar College of Engineering*
-*Intern @ SISA Information Security*
+*Ex-Intern @ SISA Information Security*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-santhosh-86424a2a2/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvas2040@gmail.com)
@@ -25,8 +25,8 @@
 
 ```yaml
 Name:     Apoorva Santhosh
-Focus:    Cybersecurity, Full-Stack Development 
-Current:  Cybersecurity for AI Intern @ SISA Information Security
+Focus:    Cybersecurity, AI
+Experience:  Cybersecurity for AI Intern @ SISA Information Security
 GPA:      9.28 / 10
 Location: Bengaluru, India
 ```
